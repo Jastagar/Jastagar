@@ -9,5 +9,6 @@ As a quality-driven FullStack Web Developer, I have a strong passion for buildin
 *   🌍  I'm based in Mohali
 *   🖥️  See my portfolio at [Portfolio](http://jastagar.tech)
 *   🧠  I'm learning Artificial Intelligence
-*   <a href="https://www.github.com/Jastagar" target="_blank" rel="noreferrer"><img
+
+  <a href="https://www.github.com/Jastagar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Jastagar?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
